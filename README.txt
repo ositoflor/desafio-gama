@@ -1,0 +1,1 @@
+Esse projeto foi feito todo em html e css, feito para o desafio da hiring coders.
